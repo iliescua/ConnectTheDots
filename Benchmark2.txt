@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-26T21:16:13</date>
+  <millis>1538014573194</millis>
+  <sequence>1</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(n - 1):       00 : 00 : 00 : 020</message>
+</record>
+<record>
+  <date>2018-09-26T21:16:18</date>
+  <millis>1538014578053</millis>
+  <sequence>2</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(3 Dots):      00 : 00 : 04 : 854</message>
+</record>
+<record>
+  <date>2018-09-26T21:16:18</date>
+  <millis>1538014578062</millis>
+  <sequence>3</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(n - 1):      00 : 00 : 00 : 001</message>
+</record>
+<record>
+  <date>2018-09-26T21:16:57</date>
+  <millis>1538014617832</millis>
+  <sequence>4</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(3 Dots):     00 : 00 : 39 : 767</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-26T21:19:57</date>
+  <millis>1538014797755</millis>
+  <sequence>1</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(n - 1):       00 : 00 : 00 : 015</message>
+</record>
+<record>
+  <date>2018-09-26T21:20:03</date>
+  <millis>1538014803388</millis>
+  <sequence>2</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(3 Dots):      00 : 00 : 05 : 623</message>
+</record>
+<record>
+  <date>2018-09-26T21:20:03</date>
+  <millis>1538014803392</millis>
+  <sequence>3</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(n - 1):      00 : 00 : 00 : 002</message>
+</record>
+<record>
+  <date>2018-09-26T21:20:49</date>
+  <millis>1538014849562</millis>
+  <sequence>4</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(3 Dots):     00 : 00 : 46 : 166</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-26T21:25:38</date>
+  <millis>1538015138331</millis>
+  <sequence>1</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(n - 1):       00 : 00 : 00 : 030</message>
+</record>
+<record>
+  <date>2018-09-26T21:26:02</date>
+  <millis>1538015162743</millis>
+  <sequence>2</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed ArrayList(3 Dots):      00 : 00 : 24 : 404</message>
+</record>
+<record>
+  <date>2018-09-26T21:26:02</date>
+  <millis>1538015162750</millis>
+  <sequence>3</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(n - 1):      00 : 00 : 00 : 004</message>
+</record>
+<record>
+  <date>2018-09-26T21:35:47</date>
+  <millis>1538015747363</millis>
+  <sequence>4</sequence>
+  <logger>Benchmark2</logger>
+  <level>INFO</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>benchmarkTwo</method>
+  <thread>14</thread>
+  <message>Indexed LinkedList(3 Dots):     00 : 09 : 44 : 642</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

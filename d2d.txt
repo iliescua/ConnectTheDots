@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-10T16:00:25</date>
+  <millis>1554930025480</millis>
+  <sequence>1</sequence>
+  <logger>Canvas</logger>
+  <level>SEVERE</level>
+  <class>iliescua.Dot2DotController</class>
+  <method>openFile</method>
+  <thread>14</thread>
+  <message>Error loading file</message>
+</record>
+</log>
